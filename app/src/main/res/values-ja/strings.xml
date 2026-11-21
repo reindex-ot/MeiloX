@@ -1031,10 +1031,10 @@
   <string name="search_history_remove">「%1$s」を最近の検索から削除</string>
   <string name="search_history_show_all">すべて表示</string>
     <string name="legacy_appearance_notice_title">Android 12 での表示</string>
-    <string name="legacy_appearance_notice_message">この端末では「透明度を下げる」が常にオンになります。プレイヤーにはジャケット画像の色に合わせた静止背景が表示されます。Liquid Glass、段階的なぼかし、ガラスの HDR 効果、流動背景には Android 13 以降が必要です。</string>
+    <string name="legacy_appearance_notice_message">この端末では「透明度を下げる」が常にオンになります。プレーヤーにはジャケット画像の色に合わせた静止背景が表示されます。Liquid Glass、段階的なぼかし、ガラスの HDR 効果、流動背景には Android 13 以降が必要です。</string>
     <string name="legacy_appearance_reduce_transparency_description">Android 12 と 12L では常にオンになります。</string>
     <string name="legacy_appearance_shader_requirement">Android 13 以降が必要です。</string>
-    <string name="legacy_appearance_fluid_description">流動背景には Android 13 以降が必要です。プレイヤーにはジャケット画像の色に合わせた静止背景が表示されます。</string>
+    <string name="legacy_appearance_fluid_description">流動背景には Android 13 以降が必要です。プレーヤーにはジャケット画像の色に合わせた静止背景が表示されます。</string>
     <string name="mcp_title">ローカル MCP サービス</string>
     <string name="mcp_status">サービスの状態</string>
     <string name="mcp_listener">%1$s · %2$d 件の接続</string>
@@ -1104,8 +1104,8 @@
     <string name="widget_ncm_radio_scene_exercise">運動</string>
     <string name="widget_ncm_radio_scene_relax">リラックス</string>
     <string name="widget_ncm_radio_scene_cheerful">明るい</string>
-    <string name="widget_player">音楽プレイヤー</string>
-    <string name="widget_player_bar">プレイヤーバー</string>
+    <string name="widget_player">音楽プレーヤー</string>
+    <string name="widget_player_bar">プレーヤーバー</string>
     <string name="widget_lyrics">ハートビート歌詞</string>
     <string name="widget_recent">最近再生した曲</string>
     <string name="widget_radio">パーソナルラジオ</string>
@@ -1135,11 +1135,11 @@
     <string name="widget_pins_description">ホーム画面から選んだ曲をそのまま再生できます。</string>
     <string name="widget_discover_description">音楽ソースがおすすめする曲を表示します。</string>
     <string name="widget_charts_description">チャートやプレイリストを探索できます。</string>
-    <string name="widget_open_music_description">ホーム画面からMeiloXを開けます。</string>
+    <string name="widget_open_music_description">ホーム画面から MeiloX を開けます。</string>
     <string name="widget_choose_music">曲を選ぶ</string>
     <string name="widget_play_pinned">選んだ曲を再生</string>
     <string name="widget_start_radio">ラジオを開始</string>
-    <string name="widget_player_mini">ミニプレイヤー</string>
+    <string name="widget_player_mini">ミニプレーヤー</string>
     <string name="widget_apple_radio">ラジオ</string>
     <string name="widget_apple_radio_description">ラジオの再生を開始します。</string>
     <string name="widget_play_mode">再生モード</string>
